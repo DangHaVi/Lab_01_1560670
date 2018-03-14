@@ -3,7 +3,7 @@
 ** THÔNG TIN **
 <ul>
   <li>MSSV: 1560670 </li>
-  <li>Họ tên: Đặng Hà Vi </li>\
+  <li>Họ tên: Đặng Hà Vi </li>
   <li>Lớp: 15CK5 </li>
   <li>Email: danghavi2006@gmail.com </li>
   <li>Điện thoại: 01664008321 </li>
